@@ -5,10 +5,10 @@ Presenting unique exploratory data analysis and presenting data stories
 
 The seaborn geyser dataset found at  https://github.com/mwaskom/seaborn-data/blob/master/geyser.csv contains information about geyser characteristics:
 
-|Variable|Description|
-|duration|The length the geyser lasted|
-|waiting|The length spent waiting for the geyser to start|
-|kind|Whether the geyser was long or short|
+Variables:  
+duration - The length the geyser lasted  
+waiting - The length spent waiting for the geyser to start  
+kind - Whether the geyser was long or short  
 
 ## How to Install and Run the Project
 
