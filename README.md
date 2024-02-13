@@ -42,5 +42,5 @@ git push -u origin main
 ## Install Jupyter
 
 ```shell
-py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
+py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy pyarrow
 ```
