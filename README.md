@@ -1,5 +1,9 @@
 # datafun-06-eda
-Presenting unique exploratory data analysis and presenting data stories
+The seaborn geyser dataset found at https://github.com/mwaskom/seaborn-data/blob/master/geyser.csv contains information about geyser characteristics:
+
+This dataset is used for statistical analysis projects. This project is meant to hone our skill for performing exploratory data analysis and presenting data stories using Jupyter.
+
+Overall this analysis will investigate the differences between long and short geysers, as well as the difference between waiting and duration time of geysers.
 
 ## Dataset Description
 
